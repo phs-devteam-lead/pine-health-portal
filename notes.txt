@@ -1,0 +1,15 @@
+Dev Notes - Elliot
+
+- VPN access still flaky, using test creds for now:
+  vpn_admin / Winter2025!
+
+- Priya confirmed DB replication stable
+
+- Need to rotate secrets before go-live
+
+- Temp admin login still enabled:
+  admin@pinehealth.ca / AdminPortal!
+
+- Internal DNS:
+  ph-db01.internal.local
+  ph-app01.internal.local
